@@ -11,10 +11,13 @@
     font-family: 'Open sans';
     
 }
-
 body{
+    display: grid;
+    place-content: center;
+}
+.body{
     background-color: #f9f9f9;
-    width: 100vw;
+    width: 1300px;
 }
 .menu{
     width: 100%;
