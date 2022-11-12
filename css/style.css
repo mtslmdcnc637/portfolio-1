@@ -259,12 +259,16 @@ body{
 }
 .text img{
     width: 35%;
+    height: auto;
 }
 .text div{
     width: 60%;
     display: grid;
     place-content: center;
     gap: 20px;
+}
+.text-content{
+    font-size: 12px;
 }
 footer{
     width: 100%;
